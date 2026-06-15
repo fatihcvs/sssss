@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment Variables
+.env
+
+# Session Data
+ig_session.json
+bot.log
+
+# Generated Images
+generated_post.jpg
+*.png
+*.jpg
